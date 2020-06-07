@@ -1,7 +1,7 @@
 module.exports = {
   HOST:'localhost',
   USER:'root',
-  PASSWORD:'anugrah17',
+  PASSWORD:'password'
   DB:'restful_api_bezcode_sequelize',
   dialect : 'mysql',
   pool:{
